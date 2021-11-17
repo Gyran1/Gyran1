@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gyran1
+- 👀 I’m interested in learning Programming and making new things 
+- 🌱 I’m currently learning application developement , Looking forward to it!
